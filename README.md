@@ -4,7 +4,7 @@ A sleek and modern personal portfolio website to showcase my skills, projects, a
 
 ## 🖥️ Live Preview
 
-[Insert Live URL Here]
+[(http://127.0.0.1:5500/index1.html)]
 
 ---
 
@@ -41,19 +41,15 @@ A sleek and modern personal portfolio website to showcase my skills, projects, a
 │ └── main.js
 └── README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 📫 Contact
 
 Feel free to connect with me on:
 
-- [LinkedIn](#)
-- [GitHub](#)
-- [Email](mailto:your@email.com)
+- [LinkedIn](https://www.linkedin.com/in/hrishikesh-apotikar/)
+- [GitHub](https://github.com/Hrishid97)
+- [Email](mailto:hrishid97@gmail.com)
 
 ---
 
@@ -86,10 +82,5 @@ Here are some tips to make the website more interactive and engaging:
 - **Download Resume button**
 - **Testimonials** or recommendations section
 - **Live project demos** with links and GitHub buttons
-
-### ⚠️ Fixes:
-- Ensure contact links or form is working
-- Add `alt` tags to images for accessibility
-- Optimize images for faster load time
 
 ---
