@@ -24,7 +24,6 @@ A sleek and modern personal portfolio website to showcase my skills, projects, a
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- [Optional: Bootstrap, GSAP, ScrollReveal, etc.]
 
 ---
 
